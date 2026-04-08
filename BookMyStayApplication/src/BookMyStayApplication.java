@@ -1,15 +1,15 @@
 /**
  /*
  ================================================================
- USE CASE 11: CONCURRENT BOOKING SIMULATION
+ USE CASE 12: DATA PERSISTENCE & SYSTEM RECOVERY
  ================================================================
 
  DESCRIPTION:
- Simulates concurrent booking using multiple threads with proper
- synchronization to ensure thread safety.
+ This program saves and loads room inventory from a file to
+ ensure system state is preserved across restarts.
 
  ================================================================
- version 11.0
+ version 12.0
  @author Abishek JS
 */
 
